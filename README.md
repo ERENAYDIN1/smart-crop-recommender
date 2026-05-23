@@ -19,7 +19,7 @@ Toprak ve iklim verilerine göre en uygun mahsülün yetiştirilmesini öneren �
 - pH'a göre dinamik toprak durumu göstergesi
 - Sonuçlar modal pencerede gösterilir:
   - Önerilen mahsülün Türkçe adı, emojisi ve güven oranı
-  - İlk 3 adayın gradient olasılık çubukları (🥇🥈🥉)
+  - İlk 3 adayın gradient olasılık çubukları
   - Kullanılan parametrelerin özet tablosu
 - 22 mahsülün tamamı için Türkçe isim ve emoji eşlemesi
 - Sidebar: NPK, pH ve yağış referans rehberleri
